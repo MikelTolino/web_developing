@@ -1,0 +1,35 @@
+html {
+	font-size: 20px; /* px quiere decir 'pixels': la base del tamaño de fuente es ahora de 1o pixeles*/
+	font-family: 'Playfair Display', serif;
+	background-color: rgb(209, 238, 209);
+}
+
+h1 {
+	font-size: 60px;
+	text-align: center;
+  }
+  
+  p, li {
+	font-size: 16px;    
+	line-height: 2;
+	letter-spacing: 1px;
+  }
+  body {
+	width: 700px;
+	margin: 10px auto;
+	background-color: rgb(76, 248, 104);
+	padding: 0px 20px 20px 20px;
+	border: 5px solid black;
+  }
+
+  h1 {
+	margin: 0;
+	padding: 20px 0;    
+	color: #0e5c15;
+	text-shadow: 3px 3px 1px black;
+  }
+
+  img {
+	display: block;
+	margin: 0 auto;
+  }
